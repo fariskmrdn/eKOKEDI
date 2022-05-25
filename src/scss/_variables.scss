@@ -1,0 +1,52 @@
+//variables
+
+//?, Warna yang digunakan dalam laman web
+$navyblue: #000080;
+$entahblue:rgb(41, 71, 204);
+$lightblue:rgb(5, 71, 253);
+$black: #000000;
+$gray: #bfbdd8;
+$grayish-blue: #695aa1;
+$matteblack: #171717;
+$cyan: hsl(192, 70%, 51%);
+$white: #f2f2f2;
+$blackgray:#202020;
+$sup-green:rgb(33, 170, 33);
+$green:rgb(13, 255, 13);
+
+//?, warna jenis tulisan
+$h1:rgb(0, 60, 255);
+$h2:black;
+$h3: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+$h4:rgb(35, 85, 74);
+$h5:white;
+$p: $navyblue;
+$tajuk: $h2;
+$toppengalaman:$entahblue;
+$pengalaman:$grayish-blue;
+
+//?, saiz navigasi mobile
+$bar-width: 100px;
+$bar-height: 10px;
+$bar-spacing: 25px;
+
+//?, color section tertentu
+$navcolor: $blackgray;
+$link-hover:#ffffff;
+$link-biasa: $cyan;
+
+//?, color butang
+$btn-1: $navyblue;
+$btn-1-hover: $cyan;
+$btn-2: $navyblue;
+$btn-2-hover: $cyan;
+$sosial__icon:$cyan;
+$kekaki:$black;
+
+
+//?, saiz font
+$font-large:2.5rem;
+$font-medlarge:2rem;
+$font-med:1.125rem; //^ desktop links
+$font-sm:0.975rem; //^ benda biasa
+$links-size:700;
