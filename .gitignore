@@ -1,3 +1,11 @@
 
 config/.env
-payslips/*
+/payslips/*.pdf
+/payslips/*.jpg
+/payslips/*.jpeg
+/payslips/*.png
+/payslips/*.docx
+/payslips/*.zip
+/payslips/*.heic
+/payslips/*.
+
