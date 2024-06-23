@@ -1,0 +1,10 @@
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+
+<Files .env>
+    Order Allow, Deny
+    Deny from all
+</Files>
+
+
+

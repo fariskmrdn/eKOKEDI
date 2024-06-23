@@ -1,0 +1,29 @@
+[21-Dec-2023 16:49:31 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "occ_father_slip" in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 36
+[21-Dec-2023 16:49:31 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 36
+[21-Dec-2023 16:49:31 Asia/Kuala_Lumpur] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 36
+[21-Dec-2023 16:49:31 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "occ_mother_slip" in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 37
+[21-Dec-2023 16:49:31 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 37
+[21-Dec-2023 16:49:31 Asia/Kuala_Lumpur] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 37
+[21-Dec-2023 16:50:18 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "occ_father_slip" in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 36
+[21-Dec-2023 16:50:18 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 36
+[21-Dec-2023 16:50:18 Asia/Kuala_Lumpur] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 36
+[21-Dec-2023 16:50:18 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "occ_mother_slip" in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 37
+[21-Dec-2023 16:50:18 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 37
+[21-Dec-2023 16:50:18 Asia/Kuala_Lumpur] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 37
+[21-Dec-2023 16:52:19 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type bool in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 89
+[21-Dec-2023 16:52:19 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type bool in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 95
+[21-Dec-2023 16:54:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type bool in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/updateProfile.php on line 80
+[23-Dec-2023 22:46:22 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "csrf_token" in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php on line 11
+[23-Dec-2023 22:46:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php:11
+Stack trace:
+#0 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php(11): hash_equals()
+#1 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/loginApp.php(9): verifyCSRFToken()
+#2 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php on line 11
+[26-Dec-2023 13:20:17 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "csrf_token" in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php on line 11
+[26-Dec-2023 13:20:17 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php:11
+Stack trace:
+#0 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php(11): hash_equals()
+#1 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/loginApp.php(9): verifyCSRFToken()
+#2 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/config/csrf.php on line 11

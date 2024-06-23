@@ -1,0 +1,53 @@
+[21-Dec-2023 07:29:47 UTC] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/index.php on line 3
+[21-Dec-2023 07:29:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/index.php on line 3
+[21-Dec-2023 16:09:36 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $student in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 79
+[21-Dec-2023 16:09:36 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 79
+[21-Dec-2023 16:09:36 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $MalaysianStates in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 88
+[21-Dec-2023 16:09:36 Asia/Kuala_Lumpur] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 88
+[21-Dec-2023 16:10:12 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $student in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 81
+[21-Dec-2023 16:10:12 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 81
+[21-Dec-2023 16:10:53 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $student in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 80
+[21-Dec-2023 16:10:53 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 80
+[21-Dec-2023 16:20:19 Asia/Kuala_Lumpur] PHP Warning:  require_once(../../config.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:19 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Failed opening required '../../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php:3
+Stack trace:
+#0 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php(6): require_once()
+#1 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:21 Asia/Kuala_Lumpur] PHP Warning:  require_once(../../config.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:21 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Failed opening required '../../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php:3
+Stack trace:
+#0 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php(6): require_once()
+#1 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:22 Asia/Kuala_Lumpur] PHP Warning:  require_once(../../config.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Failed opening required '../../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php:3
+Stack trace:
+#0 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php(6): require_once()
+#1 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:22 Asia/Kuala_Lumpur] PHP Warning:  require_once(../../config.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Failed opening required '../../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php:3
+Stack trace:
+#0 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php(6): require_once()
+#1 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:23 Asia/Kuala_Lumpur] PHP Warning:  require_once(../../config.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:20:23 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Failed opening required '../../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php:3
+Stack trace:
+#0 /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php(6): require_once()
+#1 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/backend/redirect.php on line 3
+[21-Dec-2023 16:21:13 Asia/Kuala_Lumpur] PHP Warning:  require_once(/backend/redirect.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 6
+[21-Dec-2023 16:21:13 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Failed opening required '/backend/redirect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 6
+[21-Dec-2023 16:21:13 Asia/Kuala_Lumpur] PHP Warning:  require_once(/backend/redirect.php): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 6
+[21-Dec-2023 16:21:13 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Failed opening required '/backend/redirect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/kvkualas/public_html/ekokedi.kvkualaselangor.com/daftar/profile.php on line 6
